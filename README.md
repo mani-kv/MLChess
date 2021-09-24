@@ -1,3 +1,5 @@
+> Abandoned Project for now
+
 # MLChess
 Chess with Machine Learning cues
 
